@@ -23,43 +23,21 @@
                                 <a class="nav-link active" aria-current="page" href="#">Alamat</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" href="#">Hoby</a>
+                                <a class="nav-link" href="#">Hobi</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" href="#">Cita Cita</a>
-                            </li>
-                        </ul>
+                                <a class="nav-link" href="#">Cita - Cita</a>
+                            </ul>
+                        </div>
                     </div>
-                </div>
-            </nav>
-            <!-- ini adalah penutup navbar -->
-            <!-- content 1 -->
-            <div class="container" id="perkenalan">
-         <div class="row">
-    <div class="col-8">
-    <div class="card mx-auto" style="width: 18rem;">
-  <img src="assets/img/" class="card-img-top" style="width: 9rem;">
-  <div class="card-body">
-    <p class="card-text">yurike</p>
-  </div>
-</div>
-    </div>
-    <div class="col-8">
-      <h1>Selamat datang di website saya</h1>
-      <p>Perkenalkan naama saya yurike dari kelas XI Rpl 
-        kalian bisa panggil saya senyamannya kalian,saya sangat suka menggambar karna dari pas setelah lombah
-        saya jdi tertarik dengan gambar saya sangat suka parkjongseong dan saya sangat ingin
-        kekorea dan cita cita saya ingin menjadi arsitek tapi saya belum yakin ingin masuk kuliah dengan
-        jurusan itu semogaa saya berhasil yaa terimakasi </p>
-    </div>
-  </div>
-  <!-- penutup content 1 -->
-  <!-- content 2 -->
-  <div class="container" id="alamat">
-         <div class="row">
+                </nav>
+                <!-- ini adalah penutup navbar -->
+                <!-- content1 -->
+                <div class="container" id="perkenalan">
+  <div class="row">
     <div class="col-4">
-    <div class="card mx-auto" style="width: 18rem;">
-  <img src="assets/img/yurike.jpg" class="card-img-top" style="width: 9rem;">
+    <div class="card mx-auto" style="width: 9rem;">
+  <img src="assets/img/yurike.jpeg" class="card-img-top" alt="...">
   <div class="card-body">
     <p class="card-text">yurike</p>
   </div>
@@ -67,19 +45,50 @@
     </div>
     <div class="col-8">
       <h1>Selamat datang di website saya</h1>
-      <p>Perkenalkan naama saya yurike dari kelas XI Rpl 
+      <P>Perkenalkan naama saya yurike dari kelas XI Rpl 
         kalian bisa panggil saya senyamannya kalian,saya sangat suka menggambar karna dari pas setelah lombah
         saya jdi tertarik dengan gambar saya sangat suka parkjongseong dan saya sangat ingin
         kekorea dan cita cita saya ingin menjadi arsitek tapi saya belum yakin ingin masuk kuliah dengan
         jurusan itu semogaa saya berhasil yaa terimakasi </p>
     </div>
+    
   </div>
-  <!-- penutup content 2 -->
+</div>  
+<!-- penutup content1 --> 
+ <!-- content2 -->
+ <div class="container" id="alamat">
+  <div class="row">
+    <div class="col-8">
+    <div id="carouselExampleSlidesOnly" class="carousel slide" data-bs-ride="carousel">
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img src="assets/slide/rumah1.png" class="d-block w-100" alt="...">
+    </div>
+    <div class="carousel-item">
+      <img src="assets/slide/rumah2.png" class="d-block w-100" alt="...">
+    </div>
+    <div class="carousel-item">
+      <img src="assets/slide/rumah3.png" class="d-block w-100" alt="...">
+    </div>
+  </div>
 </div>
-        </div>
-        <!-- akhir pembungkus -->
+</div>
+    </div>
+    <div class="col-4">
+   
+<h1>alamat saya</h1>
+<p>Jalan batutulis VI No.33 Rt03/Rw003 kelurahan Kebon Kelapa Kecamatan Gambir Jakarta Pusat</p>
+    </div>
+    
+  </div>
+</div>  
+<!-- penutup content2 -->
 
-    <!-- Link Javascript -->
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
-  </body>
-</html>
+            </div>
+            <!-- akhir pembungkus -->
+
+                <!-- LINK javascript -->
+                <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
+                
+            </body>
+            </html>
