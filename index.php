@@ -34,11 +34,11 @@
             </nav>
             <!-- ini adalah penutup navbar -->
             <!-- content 1 -->
-            <div class="container">
+            <div class="container" id="perkenalan">
          <div class="row">
-    <div class="col-4">
+    <div class="col-8">
     <div class="card mx-auto" style="width: 18rem;">
-  <img src="assets/img/yurike.jpeg "class="card-img-top" style="width: 9rem;">
+  <img src="assets/img/" class="card-img-top" style="width: 9rem;">
   <div class="card-body">
     <p class="card-text">yurike</p>
   </div>
@@ -53,7 +53,28 @@
         jurusan itu semogaa saya berhasil yaa terimakasi </p>
     </div>
   </div>
-  <!-- content 1 -->
+  <!-- penutup content 1 -->
+  <!-- content 2 -->
+  <div class="container" id="alamat">
+         <div class="row">
+    <div class="col-4">
+    <div class="card mx-auto" style="width: 18rem;">
+  <img src="assets/img/yurike.jpg" class="card-img-top" style="width: 9rem;">
+  <div class="card-body">
+    <p class="card-text">yurike</p>
+  </div>
+</div>
+    </div>
+    <div class="col-8">
+      <h1>Selamat datang di website saya</h1>
+      <p>Perkenalkan naama saya yurike dari kelas XI Rpl 
+        kalian bisa panggil saya senyamannya kalian,saya sangat suka menggambar karna dari pas setelah lombah
+        saya jdi tertarik dengan gambar saya sangat suka parkjongseong dan saya sangat ingin
+        kekorea dan cita cita saya ingin menjadi arsitek tapi saya belum yakin ingin masuk kuliah dengan
+        jurusan itu semogaa saya berhasil yaa terimakasi </p>
+    </div>
+  </div>
+  <!-- penutup content 2 -->
 </div>
         </div>
         <!-- akhir pembungkus -->
